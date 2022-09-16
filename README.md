@@ -1,5 +1,12 @@
 # hacker-rank-maximum-subarray
 
+Hacker Rank
+
+The Maximum Subarray
+
+https://www.hackerrank.com/challenges/maxsubarray
+
+```
 We define subsequence as any subset of an array. We define a subarray as a contiguous subsequence in an array.
 
 Given an array, find the maximum possible sum among:
@@ -63,3 +70,4 @@ Sample Output 1
 Explanation 1
 
 Since all of the numbers are negative, both the maximum subarray and maximum subsequence sums are made up of one element, .
+```
